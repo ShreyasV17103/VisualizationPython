@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "groceryagent-463505",
+  "private_key_id": "6c7093d8958ee6ae3276a64eac878e18e1aca2eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCv/2z+BCLJzuDT\nqXsy74PXnmA7ltgnk2GBQo4ar8uy4DNYwuaE0uqfBZDs25/zgI2lf9v07TnfHBXM\n7+wSYd3Wupabpujp6LrZukbVP6R6FI8IOB2Jyt8sijRh6mTZn03KymHTSk2cZIi/\nINmeFGHQhwGewTitaw7jceQ7y942Vy3Fu18XXLkE3aNPEyUH9311sL9B0ZqioHU2\nI9DofCU9iHq1SfvqNCEhPAKY1uB4ukmaNC+Bnl+hsPQCKlrGj6Vk5+c8v+u836QQ\n9UXrhKUGUf6MODrTAMHhNwPgkxH8Z7/ILVC8ZkhGjhQFtKJpomqbPazs7AmFg3Ny\nVX+jz9qvAgMBAAECggEAEG3kg50+OXQ1pPycEr1XeOWAxT9HxACsPaVJX7C2cBHM\nKUaJv1odwHoutQsBgPkoqouSLGiIGk2PCW0CLsByYC0Aidzdvuwp+SY8SNmNOz+N\nD0QxxF8AULJBa+c2F+HuS0vI2wZY0rcd1ChhuDHd5FnzVZm4S+lZCp64orkIGtlb\nwFPToJXzqhfsY9TE9eda1wxjztpv7+TI4WpyL2yHuIsuQvRv60mnznWxF0AGiw+l\naWOVbiRrR3KfE8GMS82GchpGewUydxpQSKZ4OQVLeQK89vs/Snrb2vQJ4kW0Oda4\nfwXyBzAxjrWI3wlFA3u/BOeDxF6JbN4nmxF2no8h4QKBgQDnkSvHBrc+aq+pZBkl\nDPeFixkEXIe8BlBL9dd3u0qGmiEfUnXORGc1UvlGJtFFdhsPZPAWonsSHDVTIFzD\nK8yOu/Uz+8rNGRKhWCo+bVaxtPI0B0KciyH0HLDUQZaiXLpEbe2Q7VzMZia+Xj3n\nek8ahZKNCUgT2wqvITqrQqc/zwKBgQDCkUdoEM2yAMP/cA66lJlnRQfhXmtRwsXz\nMXGO489QIlu2GZ6vViG1dx5powY8H5PjeBl1MysxoWI4eGI1hsD1PdDfQx54UmFD\nysord0gFJRuAU4D9/5WBY0DSLOY5M+MyWAwxuAbry3ah66Mckb4Q5H/SZ4JE5zaV\nVGMBEaSPIQKBgEX8Uw3I0tLzbXm1ff/7pkdfHcV6ra8+/T+n4mIWYdTCemY8Bsy7\nUbIFDL+N9cuXgWAqsoE0xBtaGSexbTezYhR1bAs0+zr3a/EFc2cApqX4uQbOduxX\nBIEBttO/quYRPl52FsmpY1WHPghk9TKjfYrXec5UUstldRou4ctmzqNzAoGACDuH\nbvLPEUoRAPzn0qM4/nKgS7voBJSeNZUQ/f/LpNNfWAwrd7XIRVpd8hBQ0jhv1H8f\nbKMWn8n5UvRdC3DBN18/OEMpxeOOdATfmwk4Bee1Cy/9VEH9PHVLp9j4gNEeOuIY\n2f20ZUO9qEpFI49TIHnaord4fpvd5mGkssXhVaECgYBXkAP2h0t31sQFeqv2Bpjo\nITJDYo8I0pgjbosmrfC4MtHgJZSGF/rF53EnAlzbs6LjWQSWpjGchPu6XzMfRKOK\nfVf7GmuMT+YqhojwIeyPLCKLpqdJwTwXX7dpCxenhowqR+EJQnL+ZTg/lAMZ75PS\npH9AwHDbiX8CtVLMqu0epA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-evaluation@groceryagent-463505.iam.gserviceaccount.com",
+  "client_id": "117275871585038783971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-evaluation%40groceryagent-463505.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
